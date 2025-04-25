@@ -83,6 +83,13 @@ body {
     max-width: 400px;
 }
 
+.file-upload-tutor {
+    position: relative;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 600px;
+}
+
 .file-upload input {
     display: none;
 }
